@@ -1,0 +1,20 @@
+.box1{
+    /* background-color: tomato; */
+    background-color: hsl(120, 100%, 40%);
+}
+.box2{
+    /* background-color: limegreen; */
+    background-color: #a0f4c2;
+}
+.box3{
+    background-color: rgb(0, 255, 255);
+}
+.box4{
+    background-color: olive;
+}
+.box5{
+    background-color: lightcoral;
+}
+.box6{
+    background-color: rgba(140, 90, 30, 0.7);
+}
